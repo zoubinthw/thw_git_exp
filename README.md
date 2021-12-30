@@ -7,3 +7,4 @@ step01 github 练习
 - GIT
 - Alice
 - Bob
+- John
