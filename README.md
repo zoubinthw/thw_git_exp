@@ -7,8 +7,5 @@ step01 github 练习
 - GIT
 - Alice
 - Bob
-<<<<<<< HEAD
 - John
-=======
 - JoJo
->>>>>>> 测试: 用户1的提交
